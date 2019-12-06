@@ -1,0 +1,94 @@
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  width: 1440px;
+  margin: auto;
+}
+
+p{
+  color: grey;
+  margin: auto;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+div{
+  width:375px ;
+  height: 275px;
+  border-width: thin;
+  border-top-width: 6px;
+  border-style: outset;
+  border-radius: 10px;
+  box-shadow: 7px 8px 4px rgba(0, 0, 0, .3);
+  margin:70px 0 50px 0;
+  text-align: left;
+}
+
+h3{
+  margin-left: 10px;
+}
+
+.nadpis{
+  font-weight: lighter;
+  color:grey;
+
+}
+
+.nadpis2{
+  font-weight: 600;
+}
+.popisnadpisu{
+  width: 40%;
+  margin: auto;
+}
+
+.loupe{
+  position: relative;
+  left: 250px;
+  width: 30%;
+}
+.home{
+  position: relative;
+  left: 250px;
+  width: 30%;
+}
+.bulb{
+  position: relative;
+  left: 250px;
+  width: 30%;
+}
+.monitor{
+  position: relative;
+  left: 250px;
+  width: 30%;
+}
+.supervisor{
+  border-top-color: turquoise;
+  position: absolute;
+top: 350px;
+left: 150px;
+}
+
+.team-builder{
+  border-top-color:red;
+  position: absolute;
+left: 550px;
+top: 150px;
+}
+
+.karma{
+  border-top-color:gold;
+  position: absolute;
+  left: 550px;
+  top: 500px;
+
+
+}
+.calculator{
+  border-top-color:blue;
+  position: absolute;
+  left: 950px;
+  top: 350px;
+
+}
